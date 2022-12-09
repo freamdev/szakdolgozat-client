@@ -1,0 +1,4 @@
+repository "SzakdolgozatFps@Freamdev@cloud"
+  path "/"
+    br "/main"
+    co "/main"

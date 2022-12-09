@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Szakdolgozat/Scenes/Login/LoginScene.unity
+    guid: 2ad18610d893da942a76f858fd782183
+  - enabled: 1
+    path: Assets/Szakdolgozat/Scenes/MainMenu/MainMenuScene.unity
+    guid: 5b3e441ddb1cc454b8a2823d71416a76
+  - enabled: 1
+    path: Assets/Szakdolgozat/Scenes/Battle/BattleScene.unity
+    guid: 8c930c00fb5271f428afe4ba033a5096
+  - enabled: 1
+    path: Assets/Szakdolgozat/Scenes/TopScores/TopScoreScene.unity
+    guid: 9c1d01cb0542c9e41a75de7b3df4e89c
+  m_configObjects:
+    com.unity.input.settings: {fileID: 11400000, guid: 9e7be553448fa2546aea5752021cbcf7, type: 2}
